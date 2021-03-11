@@ -21,20 +21,21 @@
 界面预览
 -------
 书签预览
-![preview](https://github.com/pi-dan/YueQianQian_VUE/images/pre1.png)
 
-![preview](https://github.com/pi-dan/YueQianQian_VUE/images/pre6.png)
+![preview](https://github.com/pi-dan/YueQianQian_VUE/blob/main/images/pre1.png?raw=true)
+
+![preview](https://github.com/pi-dan/YueQianQian_VUE/blob/main/images/pre6.png?raw=true)
 
 书签添加
 
-![preview](https://github.com/pi-dan/YueQianQian_VUE/images/pre2.png)
+![preview](https://github.com/pi-dan/YueQianQian_VUE/blob/main/images/pre2.png?raw=true)
 
 书签目录添加
 
-![preview](https://github.com/pi-dan/YueQianQian_VUE/images/pre3.png)
+![preview](https://github.com/pi-dan/YueQianQian_VUE/blob/main/images/pre3.png?raw=true)
 
 搜索页面
 
-![preview](https://github.com/pi-dan/YueQianQian_VUE/images/pre4.png)
+![preview](https://github.com/pi-dan/YueQianQian_VUE/blob/main/images/pre4.png?raw=true)
 
-![preview](https://github.com/pi-dan/YueQianQian_VUE/images/pre5.png)
+![preview](https://github.com/pi-dan/YueQianQian_VUE/blob/main/images/pre5.png?raw=true)
