@@ -17,7 +17,8 @@ function supplementPath (menu) {
 
 export const menuHeader = supplementPath([
   { path: '/bookmark', title: '书签', icon: 'home' },
-  { path: '/note', title: '备忘', icon: 'home' }
+  { path: '/note', title: '备忘', icon: 'home' },
+  { path: '/help', title: '帮助', icon: 'home' }
 
 ])
 

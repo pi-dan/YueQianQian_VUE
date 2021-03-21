@@ -12,7 +12,7 @@ const frameIn = [
     redirect: { name: 'bookmark' },
     component: layoutHeaderAside,
     children: [
-      // 首页
+
       {
         path: 'note',
         name: 'note',
@@ -20,6 +20,14 @@ const frameIn = [
           auth: true
         },
         component: _import('note')
+      },
+      {
+        path: 'help',
+        name: 'help',
+        meta: {
+          auth: true
+        },
+        component: _import('help')
       },
       // 书签
       {
